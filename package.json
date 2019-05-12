@@ -1,0 +1,14 @@
+{
+  "name": "address-validator",
+  "version": "0.0.1",
+  "description": "VALIDATE DAT ADDRESS",
+  "main": "index.js",
+  "author": "Sanggu Han <korean139@sooho.io>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "base-x": "^3.0.5",
+    "crypto-js": "^3.1.9-1",
+    "jssha": "^2.3.1"
+  }
+}
