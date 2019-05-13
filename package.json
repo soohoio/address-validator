@@ -2,9 +2,13 @@
   "name": "address-validator",
   "version": "0.0.1",
   "description": "VALIDATE DAT ADDRESS",
-  "main": "index.js",
+  "main": "validator.js",
   "author": "Sanggu Han <korean139@sooho.io>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soohoio/address-validator.git"
+  },
   "private": true,
   "dependencies": {
     "base-x": "^3.0.5",
